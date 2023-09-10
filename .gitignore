@@ -1,0 +1,8 @@
+variables.tf
+*/variables.tf
+*/.terraform
+*/.terraform.lock.hcl
+*/terraform.tfstate
+*/terraform.tfstate.backup
+*/.terraform/*
+# create-ec2-instance/variables.tf
